@@ -1,6 +1,11 @@
 esta es la linea 1
 esta es la linea 2
 esta linea es la 3
+<<<<<<< HEAD
 esta linea es la 4
 esta linea es la 5
 
+=======
+esta es la linea nueva 4
+esta linea es nueva 5
+>>>>>>> Actividad3
